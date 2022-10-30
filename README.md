@@ -1,19 +1,11 @@
-# Projeto criado no esquenta para a NLW-COPA da Rocketseat 🚀😁
+# Project created in heats for rocketseat's NLW-CUP 🚀😁
 
 ## Card Explorer/Ignite
 
 ![explorer](./assets/explorer.png)
 ![ignite](./assets/ignite.png)
 
-<p align="left">
-  <img alt="explorer" src=".assets/explorer.png" width="100%"/>
-</p>
-<p align="right">
-  <img alt="ignite" src=".assets/ignite.png" width="100%"/>
-</p>
-
-
-### Meus contatos
+## 🌐 &nbsp;Social Links
  
 <div> 
   
@@ -23,13 +15,15 @@
   <a href="https://www.linkedin.com/in/rodrigo-ap-oliveira-61a547b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+## ⚙️ &nbsp;GitHub Analytics
 
  <div>
    <a href="https://github.com/RodrigoApOliveira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoApOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoApOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=RodrigoApOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoApOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
 
-### Atualmente estudando
+### 📖 &nbsp;Currently studying
+
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
