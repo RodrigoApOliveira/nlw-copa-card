@@ -1,5 +1,13 @@
 # Projeto criado no esquenta para a NLW-COPA da Rocketseat 🚀😁
 
+## Card Explorer/Ignite
+<div>
+  <img src=".assets/explorer.png" target="_blank"></a>
+</div>
+<div>
+  <img src=".assets/ignite.png" target="_blank"></a>
+</div>
+
 ### Meus contatos
  
 <div> 
