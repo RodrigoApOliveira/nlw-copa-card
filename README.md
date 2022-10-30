@@ -1,6 +1,10 @@
 # Projeto criado no esquenta para a NLW-COPA da Rocketseat 🚀😁
 
 ## Card Explorer/Ignite
+
+![explorer](./assets/explorer.png)
+![ignite](./assets/ignite.png)
+
 <p align="left">
   <img alt="explorer" src=".assets/explorer.png" width="100%"/>
 </p>
